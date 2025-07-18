@@ -1,0 +1,37 @@
+.text-header{
+    font-family:"Ubuntu", sans-serif;
+}
+
+.nav{
+    color: #5090f4 ;
+}
+
+.nav-link.active {
+  background-color: #5090f4 !important;
+  color: white !important;
+}
+
+#Content{
+    background-color: #5090f410;
+}
+
+.font-def{
+    font-family: 'Ubuntu',sans-serif;
+    color: #5090f4;
+}
+
+.highlight{
+    font-family: 'Ubuntu',sans-serif;
+    color: #F5bf51;
+}
+ul{
+    list-style-type: none;
+}
+#space-item{
+    padding-left: 1rem;
+}
+
+.small-highlight{
+    font-family: 'Ubuntu',sans-serif;
+    color: #6A7FA0;
+}
